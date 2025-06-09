@@ -1,0 +1,11 @@
+{
+  "sources": [
+    {
+      "id": "mangafire",
+      "name": "MangaFire",
+      "lang": "en",
+      "url": "https://mangafire.to",
+      "script": "mangafire.js"
+    }
+  ]
+}
